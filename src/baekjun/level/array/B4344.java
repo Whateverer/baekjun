@@ -3,7 +3,7 @@ package baekjun.level.array;
 import java.util.Scanner;
 
 // 평균은 넘겠지
-public class B4344 {
+public class B4344 {// long sum(int[] a)
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
