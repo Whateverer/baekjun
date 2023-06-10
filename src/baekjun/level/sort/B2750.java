@@ -12,5 +12,6 @@ public class B2750 {
             array[i] = sc.nextInt();
         }
         Arrays.stream(array).sorted().forEach(System.out::println);
+
     }
 }
